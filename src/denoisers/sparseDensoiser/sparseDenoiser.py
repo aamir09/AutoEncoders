@@ -89,7 +89,7 @@ plt.close()
 
 ### EVALUATE MODEL ###
 
-evaluate=sparse_autoencoder.evaluate(x_test_noisy.reshape(len(x_test_noisy),28,28,1))
+evaluate=sparse_autoencoder.evaluate(x_test_noisy.reshape((len(x_test_noisy),28,28,1)))
 
 print(f'The loss on test data is:\n{evaluate}')
 
