@@ -5,7 +5,7 @@ This repository contains codes for AutoEncoders and their applications implement
 A simple autoencoder based denoiser was implemented on the MNIST data with 60k training samples. The models and weights are also available in the repository for reference and perfect recreation of the reconstruction results. Random noise was added from the uniform distribution, mean and std as 10 and 20 respectively.
 
 ### Loss Plots
-![denoiser_loss](https://user-images.githubusercontent.com/62461730/147847096-84f7d984-1cef-4561-bfcf-274370798b24.jpeg |width=250)
+<img src="https://user-images.githubusercontent.com/62461730/147847096-84f7d984-1cef-4561-bfcf-274370798b24.jpeg" alt="Simple Denoiser Losss" width="250" height="250">
 
 
 ### Reconstruction
