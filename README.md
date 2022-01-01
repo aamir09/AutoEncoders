@@ -9,7 +9,7 @@ A simple autoencoder based denoiser was implemented on the MNIST data with 60k t
 
 
 ### Reconstruction
-<img src="https://user-images.githubusercontent.com/62461730/147847087-7d9ee2d0-9a7e-4b9e-8069-f7fa113a85eb.jpeg" alt="Sparse Denoiser Losss" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/62461730/147847237-4ed0f287-bde9-43d8-85f4-923f075f980f.png" alt="Sparse Denoiser Losss" width="300" height="300">
 
 ## Sparese Denoiser Results
 
